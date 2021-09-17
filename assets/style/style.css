@@ -54,7 +54,7 @@ table {
 }
 
 html {
-  font-size: 18px;
+  font-size: calc(18px + 0.2vw);
   color: #2f3640;
 }
 html body {
