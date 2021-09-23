@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e73f860-dda3-445f-a232-eed3648643f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/style/inc/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/inc/_main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/style/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flex.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <workItem from="1631885525449" duration="195000" />
       <workItem from="1631885725719" duration="292000" />
       <workItem from="1632383259267" duration="487000" />
-      <workItem from="1632389363025" duration="450000" />
+      <workItem from="1632389363025" duration="756000" />
     </task>
     <servers />
   </component>
